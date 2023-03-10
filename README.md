@@ -1,5 +1,4 @@
-    ### Hi there 👋
-
+<--
 - 🌱 I’m currently learning ... Fullstack Development
 - 📫 How to reach me: ... anushapahariya04@gmail.com
 - 😄 Pronouns: ...she/her
@@ -19,13 +18,10 @@
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=anushaa111_icons=true)
-
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https:/https://www.linkedin.com/in/anusha-pahariya//) 👨🏻‍💻
  - Shoot Me an [Email](mailto:anushapahariya04@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/anushaa111)
 
 
 
