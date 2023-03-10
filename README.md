@@ -16,7 +16,6 @@
 - 💻 &nbsp; C++ | Javascript | Python 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
 
-![Anusha's Github Status](https://github-readme-stats.vercel.app/api?username=anushapahariya&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 ### 📫🤝🏻 Connect with Me
 
