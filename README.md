@@ -19,13 +19,13 @@
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=anushaa111_icons=true)
 
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn](https:/https://www.linkedin.com/in/anusha-pahariya//) 👨🏻‍💻
  - Shoot Me an [Email](mailto:anushapahariya04@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/onlyArsh)
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/anushaa111)
 
 
 
