@@ -1,9 +1,8 @@
-<--
 - 🌱 I’m currently learning ... Fullstack Development
 - 📫 How to reach me: ... anushapahariya04@gmail.com
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...I am not funny lmao.
--->
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
