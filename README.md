@@ -19,7 +19,7 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https:/https://www.linkedin.com/in/anusha-pahariya//) 👨🏻‍💻
+ -- Connect with me on [LinkedIn](https://www.linkedin.com/in//anusha-pahariya/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:anushapahariya04@gmail.com) 💌
 
 
